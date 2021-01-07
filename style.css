@@ -1,0 +1,59 @@
+body
+    {
+        background-color: lightblue;
+    }
+
+h1
+    {
+        background-color: green;
+	font-face: algerian extra bold; 
+	font-size: 100px; 
+	color: yellow;
+	border: solid;
+	border-color: #3C1874;
+	border-radius: 50px;
+    }
+h2
+    {
+	background-color: green;
+	font-face: algerian;
+	font-size: 50px; 
+	color: indianred;
+	text-allign: center;
+	border: solid;
+	border-color: black;
+	border-radius: 50px;
+    }
+
+p
+    {
+	background-color: green;
+	font-size: 30px;	
+	text-align: center; 
+	color: white; 
+	font-family: 'Damion', cursive;
+	padding: 15px;              
+    }
+
+
+
+a:link, a:visited
+	{
+	background-color: green;
+	color: white;
+	text-allign: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px;
+	padding: 15px;           
+   	}
+
+a:hover, a:active
+	{
+	background-color: green;
+	color: black;          
+   	}
+	
+
+
+
